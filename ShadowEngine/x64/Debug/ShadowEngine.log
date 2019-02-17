@@ -1,0 +1,9 @@
+﻿  ShadowWindow.cpp
+c:\users\justin\source\repos\shadowengine\shadowengine\shadowwindow.cpp(58): warning C4003: not enough actual parameters for macro 'SHWND_LAST_EXCEPT'
+c:\users\justin\source\repos\shadowengine\shadowengine\shadowwindow.cpp(69): warning C4003: not enough actual parameters for macro 'SHWND_LAST_EXCEPT'
+c:\users\justin\source\repos\shadowengine\shadowengine\shadowwindow.cpp(58): warning C4297: 'ShadowWindow::ShadowWindow': function assumed not to throw an exception but does
+  c:\users\justin\source\repos\shadowengine\shadowengine\shadowwindow.cpp(58): note: __declspec(nothrow), throw(), noexcept(true), or noexcept was specified on the function
+c:\users\justin\source\repos\shadowengine\shadowengine\shadowwindow.cpp(69): warning C4297: 'ShadowWindow::ShadowWindow': function assumed not to throw an exception but does
+  c:\users\justin\source\repos\shadowengine\shadowengine\shadowwindow.cpp(69): note: __declspec(nothrow), throw(), noexcept(true), or noexcept was specified on the function
+c:\users\justin\source\repos\shadowengine\shadowengine\shadowwindow.cpp(84): warning C4003: not enough actual parameters for macro 'SHWND_LAST_EXCEPT'
+  ShadowEngine.vcxproj -> C:\Users\justin\source\repos\ShadowEngine\x64\Debug\ShadowEngine.exe
